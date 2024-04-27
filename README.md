@@ -14,3 +14,7 @@ API de un blog con DRF para el desarrollo de un portafolio de un backend develop
 
 
 Cada librería tiene suma importancia para el desarrollo de este proyecto.
+
+
+### Branch Users
+En este branch se encuentra la API de usuarios, la cual ya funciona, desde el registro y activación de usuarios, hasta el login. 
